@@ -1,8 +1,0 @@
-# The assistant's working directory is local to each machine and is never versioned.
-# Area 12 of CONTRIBUTING.md holds the recipes that recreate it.
-.claude/
-
-# Local execution plan of the current task (rule 0.3)
-PLAN.md
-
-{{STACK_IGNORES}}
